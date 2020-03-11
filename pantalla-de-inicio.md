@@ -34,7 +34,7 @@ Los indicadores azules como el siguiente indican que hay 200 litros en barriles 
 
 ![](.gitbook/assets/screenshot-guido.beerapp.com.ar-2019.07.28-20_11_09.png)
 
-## Compras pendientes de Entrega
+## Compras Pendientes de Entrega
 
 ![Resumen de compras pendientes de Entrega](.gitbook/assets/screenshot-guido.beerapp.com.ar-2019.07.28-20_17_50.png)
 
